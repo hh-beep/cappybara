@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Fonts/ArcaMajora3-Bold.otf",
+      "sha1": "d9674b1195255209c06810da9bd5457419d730cd"
+    },
+    {
+      "path": "Assets/Fonts/Gidole-Regular.ttf",
+      "sha1": "cf1ae0fc0c17cb9ee8d67d8d72cd1d386d333827"
+    },
+    {
+      "path": "Assets/Fonts/Apercu Bold.otf",
+      "sha1": "91a9b989def3c20b4051ff34e75b2956023813dd"
+    }
+  ]
+}
